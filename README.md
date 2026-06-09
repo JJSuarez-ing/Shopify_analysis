@@ -28,7 +28,7 @@ El core del análisis se estructuró dividiendo el problema en dos consultas SQL
 ##  Visualización del Reporte Ejecutivo:
 A continuación, se presenta la matriz de rendimiento detallada y el gráfico de barras horizontales que consolida los ingresos estimados:
 
-![Reporte de Shopify](Grafico_shopify.png)
+![Reporte de Shopify](Grafico.shopify.png)
 
 ###  Hallazgos Clave Extraídos del Script:
 * **Liderazgo de Inversión:** La categoría **Fitness** es la prioridad absoluta para el presupuesto del próximo año, generando más de $12,651 Millones en ingresos, apalancada por su producto estrella: *Rotator Burn Machine*.
